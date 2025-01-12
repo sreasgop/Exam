@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q1_Sort {
+public class Q01_Sort {
 
     public static void sort(int[] arr) {
         int size = arr.length;
